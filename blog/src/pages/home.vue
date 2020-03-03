@@ -15,10 +15,10 @@
                   <div class="row">
                     <p>dfsfdd</p>
                     <div class="icons">
-                      <a href="https://github.com/bestRenekton" target="_blank"><i class="iconfont icon-github"></i></a>
-                      <a href="https://www.zhihu.com/people/yang-pang-zi-40/activities" target="_blank"><i class="iconfont icon-zhihu"></i></a>
-                      <a href="http://music.163.com/#/user/home?id=272667179" target="_blank"><i class="iconfont icon-yinle"></i></a>
-                      <a href="https://weibo.com/u/5746403289?refer_flag=1005055010_&is_all=1" target="_blank"><i class="iconfont icon-weibo"></i></a>
+                      <a href="www.baidu.com" target="_blank"><i class="iconfont icon-baidu"></i></a>
+                      <a href="www.baidu.com" target="_blank"><i class="iconfont icon-baidu"></i></a>
+                      <a href="www.baidu.com" target="_blank"><i class="iconfont icon-baidu"></i></a>
+                      <a href="www.baidu.com" target="_blank"><i class="iconfont icon-baidu"></i></a>
                     </div>
                   </div>
                 </div>
